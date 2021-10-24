@@ -1,0 +1,247 @@
+{
+  "books": [
+    {
+      "id": 6,
+      "title": "Сон смешного человека",
+      "author": "Федор Достоевский",
+      "genres": [
+        "классика"
+      ],
+      "rating": 7.75
+    },
+    {
+      "title": "Тестовая книга",
+      "author": "Я",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 7
+    },
+    {
+      "title": "Тестовая книга",
+      "author": "Я",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 8
+    },
+    {
+      "title": "Большая тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 11
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 12
+    },
+    {
+      "title": "Большая новая тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 13
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 1,
+      "id": 18
+    },
+    {
+      "title": "Большая новая книга по NODEJS",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 19
+    },
+    {
+      "title": "Testing book",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 100,
+      "id": 23
+    },
+    {
+      "title": "Testing book",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 100,
+      "id": 24
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 25
+    },
+    {
+      "title": "Testing book",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 99,
+      "id": 26
+    },
+    {
+      "title": "Testing book",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 99,
+      "id": 27
+    },
+    {
+      "title": "Testing book",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 99,
+      "id": 28
+    },
+    {
+      "title": "Testing book CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 99,
+      "id": 29
+    },
+    {
+      "title": "Testing book HTML",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 100,
+      "id": 30
+    },
+    {
+      "title": "Testing book CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 99,
+      "id": 31
+    },
+    {
+      "title": "Testing book HTML",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 100,
+      "id": 32
+    },
+    {
+      "title": "Testing book",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 33
+    },
+    {
+      "title": "Testing book CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 34
+    },
+    {
+      "title": "Testing book CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 35
+    },
+    {
+      "title": "Testing book CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 36
+    },
+    {
+      "title": "Testing book HTML",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 9,
+      "id": 37
+    },
+    {
+      "title": "Testing book CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 38
+    },
+    {
+      "title": "Testing book HTML",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 8,
+      "id": 39
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 40
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 41
+    }
+  ]
+}
